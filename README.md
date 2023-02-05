@@ -1,2 +1,2 @@
 # Pingo
-A game that I made in the PyGame module. Credits to Tech with Tim for the tutorial.
+This is a simple sidescrolling game created in Python with the pygame module.
